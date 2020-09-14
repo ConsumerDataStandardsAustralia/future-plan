@@ -15,5 +15,5 @@ jobs:
       uses: srggrs/assign-one-project-github-action@1.2.0
       if: github.event.action == 'opened'
       with:
-        project: 'https://github.com/ConsumerDataStandardsAustralia/future-plan/projects'
+        project: 'https://github.com/ConsumerDataStandardsAustralia/future-plan/projects/1'
         column_name: 'Backlog'
