@@ -6,4 +6,5 @@ The process for the management of this plan is described below.
 
 ### Overall DSB Consultation process
 This plan is supported by the overall DSB planning process.  This is described diagramatically as follows:
-<div style="width:100%; horizontal-align:center"><img src="https://consumerdatastandardsaustralia.github.io/future-plan/img/consultation-process.png" width="600px" /></div>
+
+<br/><img src="https://consumerdatastandardsaustralia.github.io/future-plan/img/consultation-process.png" width="800px" /><br/>
