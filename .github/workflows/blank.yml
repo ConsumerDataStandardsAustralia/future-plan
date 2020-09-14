@@ -1,0 +1,19 @@
+name: Assign new items to project backlog
+
+on:
+  issues:
+    types: [opened]
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  assign_one_project:
+    runs-on: ubuntu-latest
+    name: Assign to project backlog
+    steps:
+    - name: Assign NEW issues to project
+      uses: srggrs/assign-one-project-github-action@1.2.0
+      if: github.event.action == 'opened'
+      with:
+        project: 'https://github.com/ConsumerDataStandardsAustralia/future-plan/projects'
+        column_name: 'Backlog'
