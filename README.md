@@ -12,4 +12,10 @@ The process for the management of this plan is described below.
 ### Overall DSB Consultation process
 This plan is supported by the overall DSB planning process.  This is described diagramatically as follows:
 <br/><img src="https://consumerdatastandardsaustralia.github.io/future-plan/img/consultation-process.png" width="800px" /><br/>
-The future work plan represented in this repository is used manage and track the items 
+The future work plan represented in this repository is used manage and track the items in the change initiation phase of this diagram.
+
+### Plan Overview
+The plan itself is managed in quarterly iterations.  As time progresses the plan for the next quarter will be confirmed with the quarters after becoming more indicative and flexible into the future.
+<br/><img src="https://consumerdatastandardsaustralia.github.io/future-plan/img/planning-process.png" width="800px" /><br/>
+
+
