@@ -1,7 +1,7 @@
 # DSB Future Work Plan
 This repository contains the high level work plan for the Data Standards Body.  Once scheduled, items in this plan will be broken down into multiple discrete decision proposals and consulted on with the CDR community.
 
-* To see the plan please refer to the [kanban board in this repository](https://github.com/ConsumerDataStandardsAustralia/future-plan/projects/1)
+* To see the plan please refer to the [kanban board in this repository](https://github.com/orgs/ConsumerDataStandardsAustralia/projects/23)
 * The issues in the backlog are in the [issue tracker for this repository](https://github.com/ConsumerDataStandardsAustralia/future-plan/issues)
 
 As this plan represents the forward work plan for the DSB, only DSB team members will create and update the items in this repository.
